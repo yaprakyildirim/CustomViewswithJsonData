@@ -1,0 +1,47 @@
+{
+  "CustomViewList": [
+    {
+      "CustomViewType": "text",
+      "Header": "Hello! I'm first Text"
+    },
+    {
+      "CustomViewType": "text",
+      "Header": "Hello! I'm second Text"
+    },
+    {
+      "CustomViewType": "checkBox",
+      "Header": "Hello! I'm checkBox",
+      "Data":[
+        "Deneme1",
+        "Deneme2"
+      ]
+    },
+    {
+      "CustomViewType": "drd",
+      "Header": "Hello! I'm DropDownList",
+      "Data":[
+        "Female",
+        "Male",
+        "Other"
+      ]
+    },
+    {
+      "CustomViewType": "drd",
+      "Header": "Hello! I'm checkBox",
+      "Data":[
+        "Ankara",
+        "İstanbul",
+        "İzmir",
+        "Mersin"
+      ]
+    },
+    {
+      "CustomViewType": "checkBox",
+      "Header": "Hello again ! I'm checkBox",
+      "Data":[
+        "Deneme1",
+        "Deneme2"
+      ]
+    }
+  ]
+}
